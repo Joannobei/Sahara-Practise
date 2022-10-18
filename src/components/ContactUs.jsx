@@ -203,7 +203,7 @@ const ContactUs = () => {
                     </label>
                 </div>
                 <div className=" m-auto flex justify-center  ">
-                    <button className='bg-[#FC9500] mt-[80px] m-auto  w-[289px] rounded-[20px] h-[56px] ' >Get Started</button>
+                    <button className='bg-[#FC9500] mt-[80px] transition duration-500 ease-in  hover:bg-gray-800 hover:text-[#FC9500] m-auto  w-[289px] rounded-[20px] h-[56px] ' >Get Started</button>
 
                 </div>
 

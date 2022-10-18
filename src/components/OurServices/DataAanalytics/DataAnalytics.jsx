@@ -4,7 +4,8 @@ import { dataAnalytics } from '../../../assets'
 const DataAnalytics = () => {
     return (
         <div className="div lg:w-[34%] relative">
-            <img className='object-fit peer m-auto lg:m-0 ' src={dataAnalytics} alt="" />
+            <img className=' peer hover:ease-in transition-all duration-700   m-auto lg object-fit ' src={dataAnalytics} alt="" />
+
             <PopUpData />
         </div>
     )

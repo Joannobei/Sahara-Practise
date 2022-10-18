@@ -26,7 +26,7 @@ const Navbar = () => {
         <nav className="hidden xl:block w-[1300px] m-auto">
           <div className="flex justify-between items-center ">
             <div className="  items-center">
-              <img src={SP} alt="SP_Logo" className=" w-[30px] h-[30px] lg:w-[60px] lg:h-[80px] " />
+              <img src={SP} alt="SP_Logo" className=" w-[30px]  h-[30px] lg:w-[80px] lg:h-[80px] " />
             </div>
 
             <div className="flex w-[180px] m-auto justify-between">
