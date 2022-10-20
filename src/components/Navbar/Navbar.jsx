@@ -26,19 +26,19 @@ const Navbar = () => {
         <nav className="hidden xl:block w-[1300px] m-auto">
           <div className="flex justify-between items-center ">
             <div className="  items-center">
-              <img src={SP} alt="SP_Logo" className=" w-[30px]  h-[30px] lg:w-[80px] lg:h-[80px] " />
+              <img src={SP} alt="SP_Logo" className=" w-[30px]  h-[30px] lg:w-[75px] lg:h-[80px] " />
             </div>
 
             <div className="flex w-[180px] m-auto justify-between">
               <div className="">
-                <a href="#about-us" className="text-gray-800 peer text-sm flex items-center">
+                <a href="#about-us" className="text-gray-800 hover:text-[#FC9500] peer text-sm flex items-center">
                   About Us </a>
               </div>
 
 
               <a href="#services"
 
-                className="text-gray-900 text-sm">
+                className="text-gray-900 text-sm hover:text-[#FC9500]">
                 Services</a>
 
             </div>

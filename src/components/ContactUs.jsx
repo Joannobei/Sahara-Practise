@@ -71,7 +71,9 @@ const ContactUs = () => {
                                     },
                                 })}
                             >
-                                <option value="" key=""><span> <img src='https://res.cloudinary.com/egator-finance-ltd/image/upload/v1665796582/Sahara%20Practice/nigeria_z6ruzp.png' alt="" /></span> +234</option>
+                                <option value="" key="">
+                                    {/* <img src='https://res.cloudinary.com/egator-finance-ltd/image/upload/v1665796582/Sahara%20Practice/nigeria_z6ruzp.png' alt="" /> */}
+                                    +234</option>
                             </select>
                         </div>
 
