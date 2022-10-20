@@ -6,6 +6,7 @@ const Sahara = () => {
       <Navbar />
       <HeroSection />
       <AboutUs/>
+      
        <WhatWeDo/>
       <SectorsWeFocusOn/>
       <OurServices/>
